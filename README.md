@@ -43,15 +43,15 @@
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-          <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/></a>
+        <a href="(https://github-readme-stats.vercel.app/api?username=dianabianca&show_icons=true&theme=dracula&count_private=true">
+          <img src="https://github-readme-stats.vercel.app/api?username=dianabianca&show_icons=true&theme=dracula&count_private=true"/></a>
       </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&theme=gruvbox&layout=compact&hide_border=true"
-          alt="1999AZZAR :: Top Langs by commit" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianabianca&theme=dracula&layout=compact&hide_border=true&count_private=true"
+          alt="dianabianca :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dianabianca&theme=dracula&layout=compact&hide_border=true&count_private=true"
+          alt="dianabianca :: Top Langs by commit" />
           </a>
         </p>
 </details>
@@ -59,8 +59,8 @@
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=dianabianca&show_icons=true&theme=dracula&hide_border=true&count_private=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=dianabianca&theme=dracula&hide_border=true&count_private=true" />
           </a>
        </p>
      <br>
