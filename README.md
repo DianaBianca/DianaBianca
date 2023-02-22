@@ -6,12 +6,6 @@
 <h4 align="center">Ruby on Rails software Developer and Computer Vision Enthusiast</h4>
 </div>
 
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 -----
 <details>
   <summary>☎️ contact me</summary>
