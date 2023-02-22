@@ -1,5 +1,5 @@
 ### Hi there! I'm Diana  👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1)
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
